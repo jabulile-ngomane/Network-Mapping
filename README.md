@@ -36,7 +36,7 @@ Traffic flows from end devices → Switch → Firewall → Router → Internet.
 ## 3. IP Configuration Results
 
 Command Used:
-ipconfig
+ipconfig/all
 
 My PC Configuration:
 - IPv4 Address: 172.20.6.132

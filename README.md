@@ -18,7 +18,7 @@ Focus Areas: TCP/IP, DNS, Routing, Network Layers
 
 ## 2. Network Topology Diagram
 
-![Workplace Network Diagram](https://gemini.google.com/share/cb8a4e742625)
+![Workplace Network Diagram]https://gemini.google.com/share/cb8a4e742625
 Description:
 The network consists of:
 - Internet (ISP)

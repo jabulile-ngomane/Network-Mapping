@@ -18,7 +18,7 @@ Focus Areas: TCP/IP, DNS, Routing, Network Layers
 
 ## 2. Network Topology Diagram
 
-![Workplace Network Diagram] (Workplace NETWORK.drawio.pdf)
+![Workplace Network Diagram] [Workplace NETWORK.drawio](https://teams.microsoft.com/l/message/48:notes/1771409081438?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Ac6ba323c-e315-4378-b3ab-1018a34e3fe1%22%7D)
 Description:
 The network consists of:
 - Internet (ISP)
@@ -62,15 +62,20 @@ Packet Loss: 0%
 This confirmed LAN connectivity.
 
 ### Ping 8.8.8.8
+
+result:
 Packets Sent: 4 
 Packets Received: 4 
 Packet Loss:  0%
+This tests the router's internet connection.
 
 ### Ping google.com
+
+result:
 Packets Sent:  4
 Packets Received:  4
 Packet Loss:  0%
-
+This tests the DNS resolution.
 ---
 
 ### Ping Other PC
@@ -130,7 +135,7 @@ After enabling the rule, the PCs were able to ping successfully.
 
 ## Outcome
 
-The issue was resolved by allowing inbound ICMP traffic through Windows Firewall. This confirmed that the network infrastructure was functioning correctly and that the problem was endpoint firewall configuration.
+The issue was resolved by allowing inbound ICMP traffic through Windows Firewall. This confirmed that the network infrastructure was functioning correctly and that the problem was the endpoint firewall configuration.
 
 ## 6. Networking Concepts Demonstrated
 

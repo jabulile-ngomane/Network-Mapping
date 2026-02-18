@@ -18,8 +18,7 @@ Focus Areas: TCP/IP, DNS, Routing, Network Layers
 
 ## 2. Network Topology Diagram
 
-![Workplace Network Diagram]((https://capeitinitiative-my.sharepoint.com/:b:/g/personal/jabulile_ngomane_capaciti_org_za/IQAD_YRJSgX4R5H3H4pEz49oAblnHaqA0-b-WP89AVxz_3o?e=S9wdLk))
-
+![Workplace Network Diagram] (Workplace NETWORK.drawio.pdf)
 Description:
 The network consists of:
 - Internet (ISP)
@@ -43,7 +42,7 @@ My PC Configuration:
 - IPv4 Address: 172.20.6.132
 - Subnet Mask: 255.255.255.0
 - Default Gateway: 172.20.6.1
-- DNS Server: (add yours)
+- DNS Server: 172.20.6.1
 
 All devices were confirmed to be in the same subnet (172.20.6.0/24).
 

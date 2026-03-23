@@ -18,7 +18,8 @@ Focus Areas: TCP/IP, DNS, Routing, Network Layers
 
 ## 2. Network Topology Diagram
 
-<img width="828" height="713" alt="Office Network" src="https://github.com/user-attachments/assets/a72f3984-5253-4e66-ad7b-aa4f0c803971" />
+<img width="736" height="558" alt="image" src="https://github.com/user-attachments/assets/2eebea9b-9ad6-4d8d-be09-04a657ca7a1d" />
+
 
 Description:
 The network consists of:

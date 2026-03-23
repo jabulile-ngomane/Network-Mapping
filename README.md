@@ -24,9 +24,10 @@ Focus Areas: TCP/IP, DNS, Routing, Network Layers
 Description:
 The network consists of:
 - Internet (ISP)
-- Router
-- Firewall
+- Router with firewall configured inside
+- Multilayer Switch
 - Switch
+- Server
 - 3 Desktop PCs
 - Wireless Access Point (WAP)
 - Laptop and Mobile Device
